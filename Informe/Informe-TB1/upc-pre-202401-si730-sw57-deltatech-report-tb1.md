@@ -118,13 +118,13 @@ Nuestro equipo está conformado por individuos apasionados y comprometidos, cada
 
 ![](src/img/Integrantes/Abel.png) 
 
-![](src/img/Integrantes/Arturo.png) 
+![](src/img/Integrantes/Franky.png) 
 
 ![](src/img/Integrantes/Julio.png) 
 
 ![](src/img/Integrantes/Luis.png) 
 
-![](src/img/Integrantes/Oscar.png) 
+![](src/img/Integrantes/Joaquin.png) 
 
 ## *Solution Profile*
 
