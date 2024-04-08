@@ -92,25 +92,39 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## *Startup Profile*
 
-Nuestra startup, denominada "DeltaTech", se centra en proporcionar soluciones innovadoras para el proceso de due diligence en línea. Nos especializamos en la automatización de diversos procesos, incluido el análisis de datos financieros de empresas, como sus estados de cuenta, entre otras funciones clave. Nuestras plataformas tecnológicas buscan ofrecer una manera eficiente y precisa de realizar una debida diligencia exhaustiva durante transacciones comerciales, como la venta de empresas.
-
-!["DeltaTech Logo"](src/img/Logo/DeltaTechLogo.png "DeltaTech Logo")
-
 ### Descripción de la Startup 
 
-Nuestro producto “Diligence Tech” utiliza algoritmos avanzados para agilizar el análisis de información financiera de la empresa a potencialmente adquirir. Nuestra plataforma ofrece una interfaz intuitiva que permite a los inversores acceder y revisar datos financieros de empresas registradas de manera rápida y segura (cifrado de datos de extremo a extremo), lo que mejora significativamente la eficiencia del proceso de debida diligencia. Nuestro objetivo es revolucionar la forma en que se lleva a cabo la debida diligencia, ofreciendo una solución integral y fácil de usar que permita a los clientes tomar decisiones informadas y estratégicas durante sus transacciones comerciales.
+**DeltaTech: Automatizando la** ***Due Diligence*** **en Línea**
 
-### Mision
+DeltaTech es una startup centrada en ofrecer soluciones innovadoras para el proceso de due diligence en línea. Nos especializamos en la automatización de una variedad de procesos, desde el análisis de datos financieros de empresas hasta la revisión de sus estados de cuenta, entre otras funciones críticas.
+Nuestras plataformas tecnológicas están diseñadas para proporcionar una manera eficiente y precisa de llevar a cabo una debida diligencia exhaustiva durante transacciones comerciales, como la venta de empresas. En DeltaTech, nos comprometemos a simplificar y agilizar el proceso de evaluación, permitiendo a nuestros clientes tomar decisiones informadas con confianza.
+Cada solución que desarrollamos está impulsada por la búsqueda constante de la excelencia en la eficiencia operativa y la precisión en el análisis de datos. En DeltaTech, estamos transformando la forma en que se aborda la due diligence en línea, llevando la automatización al centro de las transacciones comerciales del siglo XXI.
 
-Nuestra misión en DeltaTech es proporcionar soluciones innovadoras y eficientes para el proceso de due diligence en línea, permitiendo a nuestros clientes realizar evaluaciones exhaustivas de manera rápida y precisa durante transacciones comerciales críticas, como la venta de empresas. Nos esforzamos por automatizar y simplificar el análisis de datos financieros, brindando a los inversores las herramientas necesarias para tomar decisiones informadas y estratégicas que impulsen el éxito en sus operaciones.
+![DeltaTech Logo](src/img/cap1/deltatech-banner.png "DeltaTech Logo")
 
-### Visión
+\newpage
 
-Nuestra visión en DeltaTech es transformar la forma en que se realiza la debida diligencia, siendo líderes en el desarrollo de plataformas tecnológicas avanzadas que agilizan el análisis de información financiera. Nos comprometemos a ofrecer una experiencia de usuario excepcional a través de interfaces intuitivas y seguras, respaldadas por algoritmos avanzados y cifrado de datos de extremo a extremo. Buscamos ser reconocidos como socios confiables y fundamentales en el éxito de las transacciones comerciales, facilitando la toma de decisiones estratégicas para nuestros clientes en todo momento.
+**Misión**
 
-### Perfiles de integrantes del equipo 
+* Nuestra misión en DeltaTech es proporcionar soluciones innovadoras y eficientes para el proceso de due diligence en línea, permitiendo a nuestros clientes realizar evaluaciones exhaustivas de manera rápida y precisa durante transacciones comerciales críticas, como la venta de empresas. Nos esforzamos por automatizar y simplificar el análisis de datos financieros, brindando a los inversores las herramientas necesarias para tomar decisiones informadas y estratégicas que impulsen el éxito en sus operaciones.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+**Visión**
+
+* Nuestra visión en DeltaTech es transformar la forma en que se realiza la debida diligencia, siendo líderes en el desarrollo de plataformas tecnológicas avanzadas que agilizan el análisis de información financiera. Nos comprometemos a ofrecer una experiencia de usuario excepcional a través de interfaces intuitivas y seguras, respaldadas por algoritmos avanzados y cifrado de datos de extremo a extremo. Buscamos ser reconocidos como socios confiables y fundamentales en el éxito de las transacciones comerciales, facilitando la toma de decisiones estratégicas para nuestros clientes en todo momento.
+
+### Perfiles de integrantes del equipo
+
+Nuestro equipo está conformado por individuos apasionados y comprometidos, cada uno aportando sus habilidades únicas para lograr nuestros objetivos de manera efectiva y colaborativa. Aquí se muestra a nuestros miebros clave:
+
+![](src/img/Integrantes/Abel.png) 
+
+![](src/img/Integrantes/Arturo.png) 
+
+![](src/img/Integrantes/Julio.png) 
+
+![](src/img/Integrantes/Luis.png) 
+
+![](src/img/Integrantes/Oscar.png) 
 
 ## *Solution Profile*
 
