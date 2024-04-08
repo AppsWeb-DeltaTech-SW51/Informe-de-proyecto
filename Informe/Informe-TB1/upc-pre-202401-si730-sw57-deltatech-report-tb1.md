@@ -441,7 +441,112 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Diseño de entrevistas
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+**Segmento 1: Contadores Financieros**
+
+**Preguntas de introducción:**
+
+1. ¿Cuántos años tiene?
+2. ¿En qué ciudad del Perú reside?
+3. ¿Cuál considera que es su estatus social limitando la descripción a Clase Baja, Clase Media, Clase Media-Alta y Clase Alta?
+4. ¿Cúal es su profesión?
+5. ¿Cuánto tiempo lleva ejerciendo esta profesión?
+6. ¿Está familiarizado con el concepto y proceso de diligencia debida?    
+
+**Preguntas principales:**
+
+1. ¿Cómo lleva a cabo usted su trabajo para un proceso de diligencia debida?
+2. ¿Podría mencionar su participación en la diligencia debida en base a las etapas que tiene?
+3. ¿Cómo son los procesos más comunes de obtener documentos financieros de las empresas investigadas y cuanto tiempo demoran?
+4. ¿Cuáles son los documentos de las empresas que dan más problemas en obtener?
+5. ¿Qué indicador o análisis financiero considera el más importante para calificar una empresa?
+6. ¿Cual ha sido la mayor cantidad de empresas que ha consultado a la vez?
+7. ¿Usted mismo realiza el análisis financiero?
+8. ¿Qué tipo de problemas se encuentran a la hora de analizar los datos de la empresa?
+9. ¿Qué medidas de seguridad se llevan para garantizar la confidencialidad de los datos?
+10. ¿Cuáles son los procesos más importantes que usted rinde para la diligencia debida?
+11. ¿Cómo se guardan y se comparten los documentos financieros en el proceso de diligencia debida?
+12. ¿Usualmente cuánto demora un proceso de due diligence?
+13. ¿Qué herramientas conoce o utiliza durante este proceso?
+14. ¿Qué partes le parecen tediosas del proceso de diligencia debida?
+15. ¿Cómo colabora con otros participantes en el proceso de diligencia debida?
+16. ¿Qué problemas suelen ocurrir mediante el proceso de diligencia debida y cómo los resuelve?
+17. ¿Ve factible contener los documentos financieros en un servicio de alojamiento en la web como Google Drive?
+    * En caso sí, ¿Qué funcionalidades cree que vendrían útil para complementar el servicio? ¿Algo que tenga que ver con seguridad, análisis automático o edición de los documentos?
+    * En caso no, ¿Qué funcionalidades cree que debería tener para que sea posible tenerlo en uno de estos sistemas?
+18. En los documentos financieros se suele presentar censura de elementos que no se desea que sean revelados: ¿Le parece que le sería sencillo que en la aplicación misma sea posible hacer este proceso?
+19. Para mantener la seguridad del proceso el dueño de la empresa va a agregar a diversos contadores los cuales solo tendrán acceso a subir archivos en cada request que haga el inversor. ¿Piensa que esta limitación es suficiente para mantener la integridad de la empresa a vender?
+20. ¿Existen documentos financieros que obtiene, como contador, del internet? ¿Nos podría decir en donde se consiguen normalmente? ¿Me gustaría que nuestro sistema haga automáticamente la recolección de estos documentos al brindar el nombre de la compañía? ¿Tiene alguna opinión complementaria a esta funcionalidad?
+21. Debido a la sensibilidad y debida discreción que deben tener los documentos privados de la empresa nuestro modelo ha implementado una vista previa de los mismos que no podrán descargarse ni apropiarse de algún modo. ¿Qué opina sobre esta funcionalidad?
+22. Nuestra aplicación web usará el análisis de datos en base a lo que el contador envía y mostrará de manera intuitiva y digerible la proyección a largo plazo de la empresa. ¿Qué opina sobre esta implementación?
+
+**Segmento 2: Inversores**
+
+**Preguntas de introducción:**
+
+1. ¿Cuántos años tiene?
+2. ¿En qué ciudad del Perú reside?
+3. ¿Cuál es su ocupación principal?
+4. ¿Cuál es su nivel de experiencia en inversiones?
+5. ¿Con qué frecuencia realiza inversiones?
+6. ¿Cuál es su principal objetivo al invertir? (por ejemplo, crecimiento de capital, ingresos pasivos, diversificación, impacto social, etc.)
+7. ¿En qué sectores o industrias prefiere invertir?
+8. ¿Prefiere invertir en empresas nuevas y emergentes o en empresas establecidas?
+9. ¿Ha participado anteriormente en procesos de due diligence antes de invertir en una empresa?
+10. ¿Qué información financiera y empresarial considera más importante al evaluar una oportunidad de inversión?
+
+**Preguntas principales:**
+
+1. ¿Qué experiencia tiene en procesos de due diligence al evaluar una empresa?
+2. ¿Cuáles son los aspectos clave que busca en un informe de due diligence antes de tomar una decisión de inversión?
+3. ¿Qué indicadores financieros o métricas considera cruciales al evaluar la salud financiera de una empresa?
+4. ¿Qué tipo de riesgos financieros le preocupan más al considerar una inversión?
+5. ¿Qué papel juega la reputación y el historial de la empresa en su decisión de inversión?
+6. ¿Cuál es su enfoque para diversificar su cartera de inversiones?
+7. ¿Qué herramientas o plataformas utiliza para realizar análisis financiero y seguimiento de inversiones?
+8. ¿Cómo es el proceso de una diligencia debida desde su experiencia? ¿Cómo participa en ella?
+9. ¿En algún momento durante el proceso la empresa le ha hecho una serie de preguntas o detalles para poder llevar a cabo el proceso?
+10. ¿En qué formato es el que recibe los resultados de la diligencia debida? ¿Le parece eficiente? ¿Desearía tenerlo en formato virtual?
+11. ¿Ve factible contener los resultados de los documentos financieros en un servicio de alojamiento en la web como Google Drive donde se le comparte?
+    * En caso sí, ¿Qué funcionalidades cree que vendrían útil para complementar el servicio? ¿Algo que tenga que ver con seguridad, análisis automático o edición de los documentos?
+    * En caso no, ¿Qué funcionalidades cree que debería tener para que sea posible tenerlo en uno de estos sistemas?
+
+**Preferencias y comportamientos de inversión:**
+
+1. ¿Prefiere invertir en empresas locales o internacionales?
+2. ¿Qué tamaño de empresa prefiere para sus inversiones? (por ejemplo, startups, PYMES, grandes corporaciones)
+3. ¿Cuál es su horizonte de tiempo típico para una inversión? (corto plazo, mediano plazo, largo plazo)
+4. ¿Qué factores externos (económicos, políticos, sociales) considera al tomar decisiones de inversión?
+5. ¿Qué grado de involucramiento espera tener esn las empresas en las que invierte? (por ejemplo, pasivo, activo, asesoramiento)
+6. ¿Cómo valora la transparencia y la comunicación de una empresa con sus inversores?
+7. ¿Ha tenido experiencias previas de éxito o fracaso en inversiones que le gustaría compartir?
+
+**Tecnología y preferencias de información:**
+
+1. ¿Qué tipo de información financiera y empresarial prefiere recibir durante un proceso de diligencia debida?
+2. ¿Cómo prefiere acceder a esta información? (documentos físicos, plataformas en línea, informes interactivos, etc.)
+3. ¿Qué funcionalidades o herramientas tecnológicas le gustaría ver en una plataforma de due diligence para facilitar sus decisiones de inversión?
+4. ¿Está familiarizado con el uso de análisis de datos y tecnologías de inteligencia artificial en procesos de inversión o diligencia debida?
+5. ¿Qué medidas de seguridad considera esenciales al compartir información financiera y empresarial durante un proceso de inversión?
+
+**Objetivos y desafíos:**
+
+1. ¿Cuáles son sus principales objetivos financieros a corto, mediano y largo plazo?
+2. ¿Cuáles son los desafíos más grandes que enfrenta al tomar decisiones de inversión?
+3. ¿Qué información le gustaría tener disponible para tomar decisiones de inversión más informadas?
+4. ¿Cómo evalúa el éxito de una inversión?
+
+**Preferencias y comportamientos:**
+
+1. ¿Qué factores le llevan a confiar en una empresa para invertir?
+2. ¿Cuáles son sus preferencias de comunicación y cómo le gusta recibir actualizaciones sobre sus inversiones?
+3. ¿Cuál es su nivel de tolerancia al riesgo en sus inversiones?
+4. ¿Qué actividades o intereses adicionales tiene fuera de sus inversiones financieras?
+
+**Tecnología y preferencias digitales:**
+
+1. ¿Cuáles son sus hábitos de uso de tecnología y medios digitales?
+2. ¿Utiliza aplicaciones o plataformas financieras para realizar transacciones o seguimiento de inversiones?
+3. ¿Qué funcionalidades considera esenciales en una plataforma de inversión en línea?
 
 ### Registro de entrevistas
 
