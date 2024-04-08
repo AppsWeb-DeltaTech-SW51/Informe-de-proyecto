@@ -118,23 +118,90 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Antecedentes y problemática
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+El proceso tradicional de due diligence se caracteriza por ser laborioso, costoso y propenso a errores. Los inversores y profesionales financieros se ven obligados a revisar una gran cantidad de documentos financieros, legales y operativos en un tiempo limitado, lo que puede resultar en la contratación de servicios adicionales y gastos innecesarios. Además, la falta de acceso rápido y la preocupación por mantener la información sensible de la empresa segura pueden dificultar aún más la toma de decisiones.
+En este contexto, los propietarios de empresas se enfrentan al desafío de compartir información confidencial con los inversores potenciales sin garantía de que la transacción se lleve a cabo. Existe el riesgo de que los inversores utilicen los datos sensibles con otros fines, lo que puede generar incertidumbre y desconfianza en el proceso de negociación.
+La necesidad de una solución eficiente y segura para realizar una debida diligencia exhaustiva es evidente. Es crucial contar con herramientas tecnológicas avanzadas que permitan a los usuarios acceder de manera rápida y segura a la información clave, minimizando los riesgos y maximizando las oportunidades de inversión. Nuestra solución surge para abordar estos desafíos, ofreciendo una plataforma integral que automatiza y simplifica el proceso de análisis de datos financieros, proporcionando acceso seguro y eficiente a la información sensible de la empresa durante todo el proceso de Due Diligence.
 
-### *Lean UX Process* 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+### *Lean UX Process*
 
 #### *Lean UX Problem Statements*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+**Business Assumptions:**
 
-#### *Lean UX Assumptions*
+1) Creo que mis clientes necesitan una herramienta eficiente y confiable para realizar sus análisis financieros exhaustivos durante el proceso de due diligence. 
+2) Estas necesidades se pueden resolver con nuestra plataforma inteligente que automatice el análisis financiero y que ofrezca acceso rápido y seguro a información relevante de las empresas objetivo.
+3) Mis clientes iniciales son inversores y contadores financieros que trabajan en sell-side.
+4) El valor #1 que un cliente quiere de mi servicio es una manera eficiente y precisa de realizar sus transacciones durante el proceso de due diligence. 
+5) El cliente también puede obtener estos beneficios adicionales como una mayor confianza en el proceso de due diligence, una mayor seguridad de los datos financieros y una experiencia de usuario mejorada.
+6) Voy a adquirir la mayoría de mis clientes a través de campañas de marketing dirigidas a empresas de capital privado, fondos de inversión y otros actores clave en el mercado de transacciones
+7) Haré dinero a través de la venta de suscripciones a nuestra plataforma "Diligence Tech", ofreciendo diferentes niveles de acceso según las necesidades del cliente.
+8) Mi competencia principal en el mercado serán otras plataformas de due diligence en línea, así como servicios tradicionales de consultoría que ofrecen análisis de datos financieros.
+9) Los venceremos debido a nuestra capacidad para ofrecer una solución tecnológica más rápida, precisa y fácil de usar que nuestras competidoras, así como nuestro enfoque en la seguridad de los datos y la experiencia del usuario..
+10) El mayor riesgo del producto es que la tecnología pueda no funcionar como se espera, lo que podría resultar en errores en los datos o brechas de seguridad.
+11) Resolveremos esto a través de la implementación de rigurosas pruebas de calidad y seguridad, así como la rápida corrección de errores a medida que surjan.
+12) ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio/proyecto no funcione? 
+Otras suposiciones que tenemos son si:
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    - Existe una demanda significativa.
+    - La automatización de datos financieros mejorará el proceso de due diligence. 
+    - Garantizar la seguridad y privacidad de los datos financieros de las empresas objetivo a través de cifrado de extremo a extremo generará confianza entre los usuarios
+
+Si estas suposiciones resultan ser falsas, nuestro producto no funcionará, pero podrá ser rediseñado.
+
+**Business Outcomes:**
+
+- Aumentar la eficiencia operativa de las empresas al reducir el tiempo y los recursos necesarios para completar el proceso de due diligence.
+- Proporcionar una plataforma segura, intuitiva y efectiva que aumente la satisfacción del cliente y promueva la retención a largo plazo.
+- Ganar una ventaja competitiva al ofrecer características avanzadas, seguridad de datos y facilidad de uso que superan a los competidores.
+
+**Users Assumptions:**
+
+¿Quién es el usuario?
+
+Los usuarios son los contadores financieros que buscan agilizar su proceso de due diligence e inversores que contratan empresas financieras que buscan una visualización más accesible de los resultados.
+
+¿Qué problemas tiene nuestro producto? ¿Resolver?
+
+Dificultad para acceder y analizar rápidamente datos financieros de empresas objetivo durante el proceso de debida diligencia.
+Riesgos asociados con la falta de seguridad y privacidad de los datos financieros sensibles.
+Falta de eficiencia en el proceso de debida diligencia debido a la dependencia de métodos manuales y lentos.
+
+
+¿Qué características son importantes? 
+
+Automatización del análisis de datos financieros.
+Seguridad de datos con cifrado de extremo a extremo.
+Interfaz de usuario intuitiva y fácil de usar.
+Acceso rápido y seguro a información financiera relevante.
+Funcionalidades avanzadas de visualización y generación de informes.
+
+¿Dónde encaja nuestro producto en su trabajo o vida?
+
+Encaja en el proceso de trabajo de los usuarios al proporcionar una plataforma centralizada y eficiente para realizar análisis exhaustivos de datos financieros de empresas
+
+¿Cuándo y cómo es usado nuestro producto?
+
+Es utilizado por los usuarios durante todo el proceso de debida diligencia, desde la evaluación inicial de una empresa objetivo hasta la finalización de la transacción comercial.
+
+¿Cómo debe verse nuestro producto y cómo comportarse?
+
+Debe tener una apariencia profesional y moderna, con una interfaz de usuario limpia y organizada que facilite la navegación y el acceso a las herramientas y funciones clave. El producto debe comportarse de manera fluida y rápida, brindando respuestas instantáneas a las consultas de los usuarios y garantizando la seguridad y confiabilidad de los datos financieros manipulados.
+
+**User outcomes:**
+
+- Acceso de manera rápida y eficiente a la información financiera relevante de las empresas objetivo.
+- Confianza en la seguridad y privacidad de los datos financieros sensibles
+- Experiencia de usuario mejorada gracias a la interfaz intuitiva y fácil de usar
 
 #### *Lean UX Hypothesis Statements*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- Creemos que los profesionales involucrados en el proceso de due diligence valoran la eficiencia y la precisión en el análisis de datos financieros de empresas objetivo, por lo que adoptarán "Diligence Tech".
+
+- Creemos que la seguridad y privacidad de los datos financieros sensibles es una preocupación clave para los usuarios durante el proceso de due diligence, por lo que la implementación de cifrado de extremo a extremo y otras medidas de seguridad en "Diligence Tech" aumentará la confianza y la adopción de la plataforma.
+
+- Creemos que la interfaz de usuario intuitiva y fácil de usar es fundamental para la satisfacción del usuario y la adopción de la plataforma, por lo que la mejora continua de la usabilidad de "Diligence Tech" conducirá a una mayor retención de clientes.
+
+- Creemos que la automatización del análisis de datos financieros a través de algoritmos avanzados mejorará la eficiencia del proceso de due diligence, por lo que los usuarios adoptarán "Diligence Tech" el cual brinda una solución tecnológica que automatice tareas manuales y reduzca el tiempo necesario para completar estas.
 
 #### *Lean UX Canvas*
 
