@@ -27,18 +27,37 @@ classoption: oneside
 code-block-font-size: \scriptsize
 header-includes:
 - |
-  ```{=latex}
+  ```{=latex} 
   \usepackage{awesomebox}
-
+  \usepackage{fontawesome5}
   \usepackage{tcolorbox}
  
   \newtcolorbox{info-box}{colback=cyan!5!white,arc=0pt,outer arc=0pt,colframe=cyan!60!black}
   \newtcolorbox{error-box}{colback=red!5!white,arc=0pt,outer arc=0pt,colframe=red!75!black}
+  \newtcolorbox{norm-box}{colback=gray!5!white,arc=0pt,outer arc=0pt,colframe=gray!60!black}
+  \newtcolorbox{warn-box}{colback=orange!5!white,arc=0pt,outer arc=0pt,colframe=orange!80!black}
+  \newtcolorbox{attn-box}{colback=green!5!white,arc=0pt,outer arc=0pt,colframe=green!75!black}
+  \newtcolorbox{code-box}{colback=pink!5!white,arc=0pt,outer arc=0pt,colframe=pink!80!black}
+  \newtcolorbox{learn-box}{colback=blue!5!white,arc=0pt,outer arc=0pt,colframe=blue!40!black,title=\textbf{Objectives:}}
+  \newtcolorbox{scenario-box}{colback=orange!5!white,arc=0pt,outer arc=0pt,colframe=orange!80!black,title=\textbf{Scenario:}}
+  \newtcolorbox{outline-box}{colback=cyan!5!white,arc=0pt,outer arc=0pt,colframe=cyan!60!black,title=\textbf{Outline:}}
+  \newtcolorbox{prereqs-box}{colback=red!5!white,arc=0pt,outer arc=0pt,colframe=red!60!black,title=\textbf{Prerequisites:}}
+  \newtcolorbox{labtime-box}{colback=yellow!5!white,arc=0pt,outer arc=0pt,colframe=yellow!60!black,title=\textbf{Lab:}}
+
   ```
 pandoc-latex-environment:
   tcolorbox: [box]
   info-box: [info]
   error-box: [error]
+  norm-box: [norm]
+  warn-box: [warn]
+  attn-box: [attn]
+  code-box: [code]
+  learn-box: [learn]
+  scenario-box: [scenario]
+  outline-box: [outline]
+  prereqs-box: [prereqs]
+  labtime-box: [labtime]
   noteblock: [note]
   tipblock: [tip]
   warningblock: [warning]
