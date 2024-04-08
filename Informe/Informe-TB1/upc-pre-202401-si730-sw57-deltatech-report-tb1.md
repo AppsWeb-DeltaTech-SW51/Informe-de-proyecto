@@ -90,17 +90,23 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 # Capítulo I: Introducción
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
 ## *Startup Profile*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Nuestra startup, denominada "DeltaTech", se centra en proporcionar soluciones innovadoras para el proceso de due diligence en línea. Nos especializamos en la automatización de diversos procesos, incluido el análisis de datos financieros de empresas, como sus estados de cuenta, entre otras funciones clave. Nuestras plataformas tecnológicas buscan ofrecer una manera eficiente y precisa de realizar una debida diligencia exhaustiva durante transacciones comerciales, como la venta de empresas.
 
 !["DeltaTech Logo"](src/img/Logo/DeltaTechLogo.png "DeltaTech Logo")
 
 ### Descripción de la Startup 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Nuestro producto “Diligence Tech” utiliza algoritmos avanzados para agilizar el análisis de información financiera de la empresa a potencialmente adquirir. Nuestra plataforma ofrece una interfaz intuitiva que permite a los inversores acceder y revisar datos financieros de empresas registradas de manera rápida y segura (cifrado de datos de extremo a extremo), lo que mejora significativamente la eficiencia del proceso de debida diligencia. Nuestro objetivo es revolucionar la forma en que se lleva a cabo la debida diligencia, ofreciendo una solución integral y fácil de usar que permita a los clientes tomar decisiones informadas y estratégicas durante sus transacciones comerciales.
+
+### Mision
+
+Nuestra misión en DeltaTech es proporcionar soluciones innovadoras y eficientes para el proceso de due diligence en línea, permitiendo a nuestros clientes realizar evaluaciones exhaustivas de manera rápida y precisa durante transacciones comerciales críticas, como la venta de empresas. Nos esforzamos por automatizar y simplificar el análisis de datos financieros, brindando a los inversores las herramientas necesarias para tomar decisiones informadas y estratégicas que impulsen el éxito en sus operaciones.
+
+### Visión
+
+Nuestra visión en DeltaTech es transformar la forma en que se realiza la debida diligencia, siendo líderes en el desarrollo de plataformas tecnológicas avanzadas que agilizan el análisis de información financiera. Nos comprometemos a ofrecer una experiencia de usuario excepcional a través de interfaces intuitivas y seguras, respaldadas por algoritmos avanzados y cifrado de datos de extremo a extremo. Buscamos ser reconocidos como socios confiables y fundamentales en el éxito de las transacciones comerciales, facilitando la toma de decisiones estratégicas para nuestros clientes en todo momento.
 
 ### Perfiles de integrantes del equipo 
 
