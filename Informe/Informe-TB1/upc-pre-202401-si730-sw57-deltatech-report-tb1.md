@@ -453,23 +453,51 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## *Needfinding*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
 ### *User Personas*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios ideales de cada segmento. A continuación, los presentamos:
+
+User Persona 1: Marta Lopez
+
+![Creada en UXPressia](src/img/cap2/marta1.jpg)
+
+![Creada en UXPressia](src/img/cap2/marta2.jpg)
+
+User Persona 2: Christian Pinto
+
+![Creada en UXPressia](src/img/cap2/pinto1.jpg)
+
+![Creada en UXPressia](src/img/cap2/pinto2.jpg)
 
 ### *User Task Matrix*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+User Task Matrix: Marta Lopez
+
+![](src/img/cap2/marta5.jpg)
+
+User Task Matrix: Christian Pinto
+
+![](src/img/cap2/pinto5.jpg)
 
 ### *User Journey Mapping*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+User Journey Mapping: Marta Lopez
+
+![Creada en UXPressia](src/img/cap2/marta3.jpg)
+
+User Journey Mapping: Christian Pinto
+
+![Creada en UXPressia](src/img/cap2/pinto3.jpg)
 
 ### *Empathy Mapping*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Empathy Mapping: Marta Lopez
+
+![Creada en UXPressia](src/img/cap2/marta4.jpg)
+
+Empathy Mapping: Christian Pinto
+
+![Creada en UXPressia](src/img/cap2/pinto4.jpg)
 
 ### *As-is Scenario Mapping*
 
