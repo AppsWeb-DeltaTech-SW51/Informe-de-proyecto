@@ -634,43 +634,97 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 # Capítulo IV: *Product Design*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
 ## *Style Guidelines*
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ### *General Style Guidelines*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales de diseño para DiligenceTech. Por esta razón, resulta esencial definir aspectos clave como la identidad de marca, la paleta de colores y la tipografía. Además, es necesario establecer el tono de comunicación y el lenguaje utilizado, que abarcan características como divertido o serio, formal o casual, respetuoso o irreverente, y entusiasta o sereno.
+
+Branding: 
+
+DiligenceTech encarna la eficiencia, la confianza y la innovación en el campo de la debida diligencia en línea. Nuestra esencia se basa en proporcionar soluciones tecnológicas avanzadas que simplifican y agilizan el proceso de análisis de datos financieros de empresas para transacciones comerciales. Nuestra marca es sinónimo de precisión, seguridad y resultados confiables en un mundo impulsado por la tecnología.
+
+Logotipo:
+
+El logo de DiligenceTech refleja la esencia de la marca como una empresa innovadora y confiable en el campo de la debida diligencia en línea. Con una combinación de colores vibrantes y un diseño moderno, el logo representa la eficiencia, elegancia, la precisión y la tecnología avanzada que caracterizan a DiligenceTech.
+
+Colores:
+
+Se ha utilizado los naranja y negro como colores principales para el diseño de nuestro producto.
+
+Naranja (#FFA500): El color naranja se utiliza como color principal del logo, aportando vitalidad, energía y optimismo. Representa la creatividad y la innovación que caracterizan a DiligenceTech en su enfoque hacia soluciones tecnológicas avanzadas.
+
+Negro (#000000): El negro se emplea como color secundario, brindando elegancia, sofisticación y profesionalismo al logo. Se combina con el naranja para crear un contraste visual efectivo y destacar la modernidad de la marca.
+
+Tipografía:
+
+La tipografía utilizada para DiligenceTech es moderna y legible, con líneas limpias y claras. Se ha elegido una fuente que refleje la tecnología y la seriedad de la marca, mientras mantiene un aspecto actual y contemporáneo.
+
+Tonos de Comunicación:
+
+Formal/Confianza: En DiligenceTech adoptamos un enfoque formal que refleja nuestra seriedad en la seguridad de los datos, sin embargo, mantenemos un toque de accesibilidad y cercanía en nuestra comunicación con los usuarios.
+
+Respetuoso/Irreverente: Nos caracterizamos por ser siempre respetuosos y considerados en nuestra comunicación, mostrando empatía hacia las necesidades y preocupaciones de nuestros usuarios.
+
+Entusiasta/Sereno: En DiligenceTech transmitimos entusiasmo al ofrecer soluciones innovadoras, al mismo tiempo que mantenemos un tono sereno para transmitir confianza y estabilidad en la gestión de datos.
 
 ### *Web Style Guidelines*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Fuentes:
+
+Se hizo uso de la fuente Monserrat con variantes en el tamaño:
+     
+Para títulos se usó: 48px
+Para subtítulos se usó: 32px 
+Para textos se usó: 24px
+
+Colores:
+
+Los colores principales para el diseño web y Mobile son utilizados para lo siguiente: el negro es empleado para el fondo, el naranja es aplicado para los botones. Además, el color de los títulos y textos son de color negro y blanco.
+
+Gráficos:
+
+-	Logo de la aplicación 
+-	Funcionalidades esenciales
+-	Imágenes de características
+-	Imágenes de los planes 
+-	Iconos de redes sociales
+
+Componentes:
+
+-	Botones  
+-	Deslizador Desplegables 
+-	Campos de texto 
+-	Cuadro de Planes 
+-	Botón de redes sociales 
 
 ## *Information Architecture*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
 ### *Organization Systems*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Los usuarios podrán percibir la interfaz de forma lógica e intuitiva gracias a la estructura organizativa prevista para DiligenceTech.
+
+![](src/img/cap4/organization.jpg)
 
 ### *Labeling Systems*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+El conjunto de información " DiligenceTech " será representado por el sistema mediante las etiquetas siguientes.
+
+![](src/img/cap4/labeling.jpg)
 
 ### *SEO Tags and Meta Tags*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
 ### *Searching Systems*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Este sistema de búsqueda agilizará el tiempo con el objetivo de ofrecer una mejor experiencia para “DiligenceTech”.
+
+![](src/img/cap4/searching.jpg)
 
 ### *Navigation Systems*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Los procedimientos técnicos permitirán a los usuarios de " DiligenceTech " elegir cualquier detalle que deseen sobre un producto o aplicación en una ventana web.
+
+![](src/img/cap4/navigation.jpg)
 
 ## *Landing Page UI Design*
 
