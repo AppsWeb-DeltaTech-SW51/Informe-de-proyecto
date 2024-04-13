@@ -541,9 +541,13 @@ DiligenceTech encarna la eficiencia, la confianza y la innovación en el campo d
 
 Logotipo:
 
+![Logotipo](src/img/cap4/logodili.jpg)
+
 El logo de DiligenceTech refleja la esencia de la marca como una empresa innovadora y confiable en el campo de la debida diligencia en línea. Con una combinación de colores vibrantes y un diseño moderno, el logo representa la eficiencia, elegancia, la precisión y la tecnología avanzada que caracterizan a DiligenceTech.
 
 Colores:
+
+![color](src/img/cap4/colo1.jpg)
 
 Se ha utilizado los naranja y negro como colores principales para el diseño de nuestro producto.
 
@@ -552,6 +556,8 @@ Naranja (#FFA500): El color naranja se utiliza como color principal del logo, ap
 Negro (#000000): El negro se emplea como color secundario, brindando elegancia, sofisticación y profesionalismo al logo. Se combina con el naranja para crear un contraste visual efectivo y destacar la modernidad de la marca.
 
 Tipografía:
+
+![Tipofrafia](src/img/cap4/tipo.jpg)
 
 La tipografía utilizada para DiligenceTech es moderna y legible, con líneas limpias y claras. Se ha elegido una fuente que refleje la tecnología y la seriedad de la marca, mientras mantiene un aspecto actual y contemporáneo.
 
@@ -568,12 +574,24 @@ Entusiasta/Sereno: En DiligenceTech transmitimos entusiasmo al ofrecer solucione
 Fuentes:
 
 Se hizo uso de la fuente Monserrat con variantes en el tamaño:
-     
+
 Para títulos se usó: 48px
+
+![Texto](src/img/cap4/texto1.jpg)
+
 Para subtítulos se usó: 32px 
+
+![Texto](src/img/cap4/texto2.jpg)
+
 Para textos se usó: 24px
 
+![Texto](src/img/cap4/texto3.jpg)
+
 Colores:
+
+![color](src/img/cap4/colo1.jpg)
+
+![color](src/img/cap4/colo2.jpg)
 
 Los colores principales para el diseño web y Mobile son utilizados para lo siguiente: el negro es empleado para el fondo, el naranja es aplicado para los botones. Además, el color de los títulos y textos son de color negro y blanco.
 
@@ -592,6 +610,8 @@ Componentes:
 -	Campos de texto 
 -	Cuadro de Planes 
 -	Botón de redes sociales 
+
+![color](src/img/cap4/planes.jpg)
 
 ## *Information Architecture*
 
